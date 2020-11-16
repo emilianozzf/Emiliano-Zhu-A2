@@ -3,8 +3,8 @@
 /* eslint-disable react/jsx-key */
 import React from 'react';
 import './index.css';
-import Grid from './grid';
-import Buttons from './buttons';
+import Grid from './grid.js';
+import Buttons from './buttons.js';
 import { NavLink } from 'react-router-dom';
 
 export default class App extends React.Component {

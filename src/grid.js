@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-import Cell from './cell';
+import Cell from './cell.js';
 
 export default class Grid extends React.Component {
     render() {
